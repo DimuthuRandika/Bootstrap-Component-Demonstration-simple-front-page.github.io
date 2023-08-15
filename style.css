@@ -1,0 +1,14 @@
+body {
+ background-image: url(blue-background-with-blue-background-that-says-blue.jpg);
+}
+
+
+
+body{
+ color: white;
+}
+
+ /* Override modal animations */
+ .modal {
+  transition: none !important;
+}
